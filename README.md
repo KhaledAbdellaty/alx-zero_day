@@ -1,1 +1,1 @@
-My first readme
+This is second project in ALX SE
